@@ -1,4 +1,4 @@
-FROM debian:trixie-slim@sha256:a2ca65377c251208de42e1a2722cb949211236c161b634f6f3663754e2d06850
+FROM debian:trixie-slim@sha256:a29215f6a35e51e22adffa17f89e9d2ef06214e64a2bad10d765c46aea49f11f
 
 WORKDIR /srv
 ENV USERNAME=username
